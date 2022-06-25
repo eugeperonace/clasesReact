@@ -1,6 +1,6 @@
-import React from 'react';
+import React from "react";
+import "./styles.css";
 import shopping_cart from '../../assets/images/shopping-cart.png'
-import './styles.css'
 
 const CartWidget = () => {
     return(
